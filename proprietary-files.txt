@@ -1,0 +1,43 @@
+#
+# Copyright (C) 2019 The LineageOS Project
+#
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+
+# Audio
+vendor/etc/Tfa9896.cnt
+vendor/lib/libtfa98xx.so
+
+# Bluetooth
+vendor/bin/hw/android.hardware.bluetooth@1.0-service
+vendor/etc/init/android.hardware.bluetooth@1.0-service.rc
+vendor/lib/hw/android.hardware.bluetooth@1.0-impl.so
+vendor/lib/libbt-vendor.so
+vendor/lib/vendor.samsung.hardware.bluetooth@2.0.so
+
+# Camera
+vendor/firmware/fimc_is_lib.bin
+vendor/firmware/mfc_fw.bin
+vendor/firmware/setfile_3l2.bin
+vendor/firmware/setfile_5e3.bin
+vendor/lib/libexynoscamera.so
+vendor/lib/libexynoscamera3.so
+vendor/lib/libhwjpeg.so
+
+# Sensors
+vendor/lib/hw/sensors.universal7870.so
+
+# Wifi
+vendor/etc/wifi/bcmdhd_apsta.bin
+vendor/etc/wifi/bcmdhd_mfg.bin
+vendor/etc/wifi/bcmdhd_sta.bin
+vendor/etc/wifi/nvram.txt
+vendor/firmware/bcm43438_V0068.0285.hcd
