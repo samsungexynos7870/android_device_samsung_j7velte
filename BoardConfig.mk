@@ -19,7 +19,7 @@ DEVICE_PATH := device/samsung/j7velte
 BOARD_USE_TFA_AMP := true
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := j7velte,j7veltexc,j7veltexx,j7veltelk
+TARGET_OTA_ASSERT_DEVICE := j7velte,j7veltedx,j7veltedd,j7veltekk
 
 # Bluetooth
 BOARD_HAVE_BLUETOOTH := true
