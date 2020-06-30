@@ -29,7 +29,6 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 PRODUCT_DEVICE := j7velte
 PRODUCT_NAME := lineage_j7velte
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-G981B
 PRODUCT_MANUFACTURER := samsung
 
 TARGET_VENDOR := samsung
