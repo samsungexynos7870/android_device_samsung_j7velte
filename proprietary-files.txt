@@ -14,7 +14,6 @@
 
 # Audio
 vendor/etc/Tfa9896.cnt
-vendor/lib/libtfa98xx.so
 
 # Bluetooth
 vendor/bin/hw/android.hardware.bluetooth@1.0-service
