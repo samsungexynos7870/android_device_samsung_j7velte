@@ -27,7 +27,6 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_DEVICE := j7velte
 PRODUCT_NAME := omni_j7velte
-PRODUCT_MODEL := Samsung Galaxy J7 NXT
+PRODUCT_MODEL := Samsung Galaxy J7 Nxt
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
-
