@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_j7velte.mk
+    $(LOCAL_DIR)/rr_j7velte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_j7velte-user \
-    lineage_j7velte-userdebug \
-    lineage_j7velte-eng
+    rr_j7velte-user \
+    rr_j7velte-userdebug \
+    rr_j7velte-eng
