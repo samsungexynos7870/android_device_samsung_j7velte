@@ -18,8 +18,6 @@ cc_library_static {
     name: "libinit_j7velte",
     recovery_available: true,
     srcs: ["init_j7velte.cpp"],
-    include_dirs: [
-        "system/core/base/include",
-        "system/core/init"
-    ]
+    include_dirs: ["system/core/init"],
+    shared_libs: ["libbase"]
 }

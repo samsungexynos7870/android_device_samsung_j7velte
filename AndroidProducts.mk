@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2019 The LineageOS Project
+# Copyright (C) 2019 The havocOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_j7velte.mk
+    $(LOCAL_DIR)/havoc_j7velte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_j7velte-user \
-    lineage_j7velte-userdebug \
-    lineage_j7velte-eng
+    havoc_j7velte-user \
+    havoc_j7velte-userdebug \
+    havoc_j7velte-eng
